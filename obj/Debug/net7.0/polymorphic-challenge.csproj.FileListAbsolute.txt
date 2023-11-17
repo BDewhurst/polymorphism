@@ -1,0 +1,15 @@
+/home/brad1996/Csharp-course/polymorphic-challenge/bin/Debug/net7.0/polymorphic-challenge
+/home/brad1996/Csharp-course/polymorphic-challenge/bin/Debug/net7.0/polymorphic-challenge.deps.json
+/home/brad1996/Csharp-course/polymorphic-challenge/bin/Debug/net7.0/polymorphic-challenge.runtimeconfig.json
+/home/brad1996/Csharp-course/polymorphic-challenge/bin/Debug/net7.0/polymorphic-challenge.dll
+/home/brad1996/Csharp-course/polymorphic-challenge/bin/Debug/net7.0/polymorphic-challenge.pdb
+/home/brad1996/Csharp-course/polymorphic-challenge/obj/Debug/net7.0/polymorphic-challenge.csproj.AssemblyReference.cache
+/home/brad1996/Csharp-course/polymorphic-challenge/obj/Debug/net7.0/polymorphic-challenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/brad1996/Csharp-course/polymorphic-challenge/obj/Debug/net7.0/polymorphic-challenge.AssemblyInfoInputs.cache
+/home/brad1996/Csharp-course/polymorphic-challenge/obj/Debug/net7.0/polymorphic-challenge.AssemblyInfo.cs
+/home/brad1996/Csharp-course/polymorphic-challenge/obj/Debug/net7.0/polymorphic-challenge.csproj.CoreCompileInputs.cache
+/home/brad1996/Csharp-course/polymorphic-challenge/obj/Debug/net7.0/polymorphic-challenge.dll
+/home/brad1996/Csharp-course/polymorphic-challenge/obj/Debug/net7.0/refint/polymorphic-challenge.dll
+/home/brad1996/Csharp-course/polymorphic-challenge/obj/Debug/net7.0/polymorphic-challenge.pdb
+/home/brad1996/Csharp-course/polymorphic-challenge/obj/Debug/net7.0/polymorphic-challenge.genruntimeconfig.cache
+/home/brad1996/Csharp-course/polymorphic-challenge/obj/Debug/net7.0/ref/polymorphic-challenge.dll
