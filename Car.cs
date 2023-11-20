@@ -9,6 +9,15 @@ namespace Polymorphism {
         public string Color {get; set;}
         public int HP {get; set;}
 
+        protected CarIDInfo carIDInfo = new CarIDInfo();
+        public void SetCarIdInfo(int idNum, string owner) {
+            carIDInfo.IDNum = idNum;
+            carIDInfo.Owner = owner;
+        }
+
+        public void GetCarIDInfo() {
+         Console.WriteLine($"The car has the ID of {carIDInfo.IDNum} and is owned by {carIDInfo.Owner}");
+        }
         public Car(string color, int hp) {
 
             this.Color = color;

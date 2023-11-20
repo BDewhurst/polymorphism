@@ -23,6 +23,10 @@ namespace Polymorphism {
            
             M3 myM3 = new M3("Red", 123, "M3 super Turbo");
             myM3.Repair();
+
+            Car bmwz3 = new Bmw("Red", 75, "SuperTurbo");
+            bmwz3.SetCarIdInfo(1234, "Brad");
+            bmwz3.GetCarIDInfo();
         }
     }
 }
