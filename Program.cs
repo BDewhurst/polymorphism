@@ -21,7 +21,8 @@ namespace Polymorphism {
                     car.ShowDetails();
                 }
            
-
+            M3 myM3 = new M3("Red", 123, "M3 super Turbo");
+            myM3.Repair();
         }
     }
 }
